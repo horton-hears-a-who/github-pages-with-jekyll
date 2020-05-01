@@ -1,5 +1,3 @@
-# Welcome to my first github page.
-
 ## I am using github to build my knowledge and to create a github page as a CV.
 
 
