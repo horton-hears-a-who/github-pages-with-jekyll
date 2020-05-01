@@ -1,3 +1,12 @@
-# Welcome to my blog
+# Welcome to my first github page.
 
-I'm glad you are here. I plan to talk about ...
+## I am using github to build my knowledge and to create a github page as a CV.
+
+
+---
+
+**I like _turtles._**
+
+---
+
+
