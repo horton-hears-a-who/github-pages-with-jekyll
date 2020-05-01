@@ -1,7 +1,7 @@
 theme: minima
 title: Horton Hears a Who!
 author: MJH
-description: >github blog site for testing
+description: github blog site for testing
 
 # social links
 twitter_username:  # DO NOT include the @ character, or else the build will fail!
