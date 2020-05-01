@@ -3,4 +3,4 @@ author: MJH
 description: github blog site for testing
 github_username:  horton-hears-a-who # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minimia
+theme: minima
